@@ -5,4 +5,6 @@
 
 <h1> hello Quiz with Svelte !! ;)  </h1>
 <Quiz quizName="New QUIZ" />
-<Quiz />
+<hr>
+
+<Quiz  title />
